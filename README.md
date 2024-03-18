@@ -2,12 +2,9 @@
 초창기 CNN공부할때 가장 기본적인 CNN모델들로 구현한 모델 입니다.
 
 **MODEL**
-* AlexNet
-![image](https://github.com/ycbkr123/CNN/assets/73626645/27e79d43-3991-4349-85b2-c30c2ff6dddb)
-* ZFNet
-![image](https://github.com/ycbkr123/CNN/assets/73626645/bae2fcf9-b19a-4ffc-b469-7b65b370c6cb)
-* VGGNet
-![image](https://github.com/ycbkr123/CNN/assets/73626645/ff467d12-2229-47dd-a446-5a3a7bc010a2)
+* AlexNet ![image](https://github.com/ycbkr123/CNN/assets/73626645/27e79d43-3991-4349-85b2-c30c2ff6dddb)
+* ZFNet ![image](https://github.com/ycbkr123/CNN/assets/73626645/bae2fcf9-b19a-4ffc-b469-7b65b370c6cb)
+* VGGNet ![image](https://github.com/ycbkr123/CNN/assets/73626645/ff467d12-2229-47dd-a446-5a3a7bc010a2)
 
 **Result**
 * AlexNet
