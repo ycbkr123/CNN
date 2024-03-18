@@ -1,4 +1,4 @@
-# CNN BASE MODEL
+# CNN BASE MODEL-tensorflow
 
 초창기 CNN공부할때 가장 기본적인 CNN모델들로 구현한 모델 입니다.
 
